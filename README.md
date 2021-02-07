@@ -1,8 +1,10 @@
-Pinebook Pro - Debian from Scratch
+Pinebook Pro - Ubuntu from Scratch
 ==================================
 
-pinebook-pro-debian-installer is an unofficial Debian installer for the
-Pinebook Pro. It is not endorsed by either Debian or Pine Microsystems.
+Originally from [pinebook-pro-debian-installer](https://github.com/daniel-thompson/pinebook-pro-debian-installer).
+
+pinebook-pro-ubuntu-installer is an unofficial Ubuntu installer for the
+Pinebook Pro. It is not endorsed by either Ubuntu or Pine Microsystems.
 
 There is no downloadable image, instead it is a script that constructs
 a fresh image from scratch using [debootstrap](https://wiki.debian.org/Debootstrap)
